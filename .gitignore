@@ -1,0 +1,7 @@
+# Node projects
+node_modules/
+.env
+.env.local
+dist/
+.next/
+.COMMIT_PLAN.md
